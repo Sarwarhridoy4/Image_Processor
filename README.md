@@ -1,4 +1,3 @@
-
 # Image Processor Application
 
 ## Overview
@@ -18,7 +17,7 @@ The Image Processor application is a Python-based GUI tool developed using PyQt5
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/image-processor.git
+    git clone https://github.com/Sarwarhridoy4/Image_Processor.git
     cd image-processor
     ```
 
@@ -83,7 +82,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Screenshots
 
-Add screenshots of your application here to provide users with a visual overview.
+![Application Screenshot](https://i.ibb.co/XkXRcSN/Screenshot-2.png)
 
 ---
 
